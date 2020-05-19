@@ -1,7 +1,10 @@
 {
-  "name": "rails-simple-airbnb",
+  "name": "rails_simple_airbnb",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.4.1"
-  }
+    "@rails/ujs": "^6.0.0",
+    "turbolinks": "^5.2.0",
+    "@rails/actioncable": "^6.0.0"
+  },
+  "version": "0.1.0"
 }
